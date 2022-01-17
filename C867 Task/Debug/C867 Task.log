@@ -1,0 +1,6 @@
+﻿  main.cpp
+  roster.cpp
+E:\Users\tolmd\Documents\C++ Projects\WGU\C867 Task\C867 Task\roster.cpp(104,7): warning C4101: 'noInvalids': unreferenced local variable
+  student.cpp
+  Generating Code...
+  C867 Task.vcxproj -> E:\Users\tolmd\Documents\C++ Projects\WGU\C867 Task\Debug\C867 Task.exe
